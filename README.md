@@ -10,4 +10,4 @@ Diem is an options Automated Market Maker (AMM) which facilitates long and short
 
 Very early Audit by Guardian Audits: https://github.com/GuardianAudits/Audits/tree/main/IVX
 
-Frontend by @c0rdeiro
+Frontend by [@c0rdeiro](https://github.com/c0rdeiro)

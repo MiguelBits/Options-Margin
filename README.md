@@ -7,3 +7,5 @@ Margin Requirements must be met to adquire leverage from AMM, and AMM hedges on 
 Documentation: https://ivx-smart-contracts.gitbook.io/diem-documents
 
 Diem is an options Automated Market Maker (AMM) which facilitates long and short options trading in a permissionless and decentralized way for options with less than 24 hours to expiry. In addition, it acts as a single pool, and offers options on multiple underlying assets which are collateralized by this pool. It is the first step toward unifying option liquidity into a single collateral pool for multiple assets and strike prices. It forms the foundation for expanding the IVX AMM to encompass a broad spectrum of expiry times.
+
+Very early Audit by Guardian Audits: https://github.com/GuardianAudits/Audits/tree/main/IVX
